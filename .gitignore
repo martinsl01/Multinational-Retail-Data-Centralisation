@@ -1,0 +1,5 @@
+# I do not want to track the following:
+db_creds.yaml
+pg_creds.yaml
+clean.ipynb
+
